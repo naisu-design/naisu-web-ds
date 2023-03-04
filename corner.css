@@ -24,3 +24,24 @@
     --corner-extra-large-end: 0 28px 28px 0;
     --corner-full: 9999px;
 }
+
+.corner-extra-small {
+    border-radius: var(---extra-small);
+}
+
+.corner-small {
+    border-radius: var(---small);
+}
+
+.corner-medium {
+    border-radius: var(---medium);
+}
+
+.corner-large {
+    border-radius: var(---large);
+}
+
+.corner-extra-large {
+    border-radius: var(---extra-large);
+}
+

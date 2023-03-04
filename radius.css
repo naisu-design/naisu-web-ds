@@ -1,0 +1,47 @@
+/* AUTO-GENERATED FROM `data/corner.jsonc`, DO NOT EDIT MANUALLY! */
+
+:root {
+    --radius-none: 0;
+    --radius-extra-small: 4px;
+    --radius-extra-small-top: 4px 4px 0 0;
+    --radius-extra-small-start: 4px 0 0 4px;
+    --radius-extra-small-end: 0 4px 4px 0;
+    --radius-small: 8px;
+    --radius-small-top: 8px 8px 0 0;
+    --radius-small-start: 8px 0 0 8px;
+    --radius-small-end: 0 8px 8px 0;
+    --radius-medium: 12px;
+    --radius-medium-top: 12px 12px 0 0;
+    --radius-medium-start: 12px 0 0 12px;
+    --radius-medium-end: 0 12px 12px 0;
+    --radius-large: 16px;
+    --radius-large-top: 16px 16px 0 0;
+    --radius-large-start: 16px 0 0 16px;
+    --radius-large-end: 0 16px 16px 0;
+    --radius-extra-large: 28px;
+    --radius-extra-large-top: 28px 28px 0 0;
+    --radius-extra-large-start: 28px 0 0 28px;
+    --radius-extra-large-end: 0 28px 28px 0;
+    --radius-full: 9999px;
+}
+
+.rounded-extra-small {
+    border-radius: var(---extra-small);
+}
+
+.rounded-small {
+    border-radius: var(---small);
+}
+
+.rounded-medium {
+    border-radius: var(---medium);
+}
+
+.rounded-large {
+    border-radius: var(---large);
+}
+
+.rounded-extra-large {
+    border-radius: var(---extra-large);
+}
+
