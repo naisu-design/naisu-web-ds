@@ -1,0 +1,26 @@
+/* AUTO-GENERATED FROM `data/corner.jsonc`, DO NOT EDIT MANUALLY! */
+
+:root {
+    --corner-none: 0;
+    --corner-extra-small: 4px;
+    --corner-extra-small-top: 4px 4px 0 0;
+    --corner-extra-small-start: 4px 0 0 4px;
+    --corner-extra-small-end: 0 4px 4px 0;
+    --corner-small: 8px;
+    --corner-small-top: 8px 8px 0 0;
+    --corner-small-start: 8px 0 0 8px;
+    --corner-small-end: 0 8px 8px 0;
+    --corner-medium: 12px;
+    --corner-medium-top: 12px 12px 0 0;
+    --corner-medium-start: 12px 0 0 12px;
+    --corner-medium-end: 0 12px 12px 0;
+    --corner-large: 16px;
+    --corner-large-top: 16px 16px 0 0;
+    --corner-large-start: 16px 0 0 16px;
+    --corner-large-end: 0 16px 16px 0;
+    --corner-extra-large: 28px;
+    --corner-extra-large-top: 28px 28px 0 0;
+    --corner-extra-large-start: 28px 0 0 28px;
+    --corner-extra-large-end: 0 28px 28px 0;
+    --corner-full: 9999px;
+}

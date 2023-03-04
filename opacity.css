@@ -1,0 +1,35 @@
+/* AUTO-GENERATED FROM `data/opacity.jsonc`, DO NOT EDIT MANUALLY! */
+
+:root {
+    --opacity-0: 0.0;
+    --opacity-disabled: 0.12;
+    --opacity-disabled-2: 0.38;
+    --opacity-50: 0.5;
+    --opacity-75: 0.75;
+    --opacity-100: 1.0;
+}
+
+.opacity-0 {
+    opacity: 0.0;
+}
+
+.opacity-disabled {
+    opacity: 0.12;
+}
+
+.opacity-disabled-2 {
+    opacity: 0.38;
+}
+
+.opacity-50 {
+    opacity: 0.5;
+}
+
+.opacity-75 {
+    opacity: 0.75;
+}
+
+.opacity-100 {
+    opacity: 1.0;
+}
+

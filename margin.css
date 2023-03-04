@@ -1,0 +1,331 @@
+/* AUTO-GENERATED FROM `data/spacing.jsonc`, DO NOT EDIT MANUALLY! */
+
+.m-0 {
+    margin: var(--spacing-0);
+}
+
+.mt-0 {
+    margin-top: var(--spacing-0);
+}
+
+.ml-0 {
+    margin-left: var(--spacing-0);
+}
+
+.mb-0 {
+    margin-bottom: var(--spacing-0);
+}
+
+.mr-0 {
+    margin-right: var(--spacing-0);
+}
+
+.mx-0 {
+    margin-left: var(--spacing-0);
+    margin-right: var(--spacing-0);
+}
+
+.my-0 {
+    margin-top: var(--spacing-0);
+    margin-bottom: var(--spacing-0);
+}
+
+.m-px {
+    margin: var(--spacing-px);
+}
+
+.mt-px {
+    margin-top: var(--spacing-px);
+}
+
+.ml-px {
+    margin-left: var(--spacing-px);
+}
+
+.mb-px {
+    margin-bottom: var(--spacing-px);
+}
+
+.mr-px {
+    margin-right: var(--spacing-px);
+}
+
+.mx-px {
+    margin-left: var(--spacing-px);
+    margin-right: var(--spacing-px);
+}
+
+.my-px {
+    margin-top: var(--spacing-px);
+    margin-bottom: var(--spacing-px);
+}
+
+.m-1 {
+    margin: var(--spacing-1);
+}
+
+.mt-1 {
+    margin-top: var(--spacing-1);
+}
+
+.ml-1 {
+    margin-left: var(--spacing-1);
+}
+
+.mb-1 {
+    margin-bottom: var(--spacing-1);
+}
+
+.mr-1 {
+    margin-right: var(--spacing-1);
+}
+
+.mx-1 {
+    margin-left: var(--spacing-1);
+    margin-right: var(--spacing-1);
+}
+
+.my-1 {
+    margin-top: var(--spacing-1);
+    margin-bottom: var(--spacing-1);
+}
+
+.m-2 {
+    margin: var(--spacing-2);
+}
+
+.mt-2 {
+    margin-top: var(--spacing-2);
+}
+
+.ml-2 {
+    margin-left: var(--spacing-2);
+}
+
+.mb-2 {
+    margin-bottom: var(--spacing-2);
+}
+
+.mr-2 {
+    margin-right: var(--spacing-2);
+}
+
+.mx-2 {
+    margin-left: var(--spacing-2);
+    margin-right: var(--spacing-2);
+}
+
+.my-2 {
+    margin-top: var(--spacing-2);
+    margin-bottom: var(--spacing-2);
+}
+
+.m-3 {
+    margin: var(--spacing-3);
+}
+
+.mt-3 {
+    margin-top: var(--spacing-3);
+}
+
+.ml-3 {
+    margin-left: var(--spacing-3);
+}
+
+.mb-3 {
+    margin-bottom: var(--spacing-3);
+}
+
+.mr-3 {
+    margin-right: var(--spacing-3);
+}
+
+.mx-3 {
+    margin-left: var(--spacing-3);
+    margin-right: var(--spacing-3);
+}
+
+.my-3 {
+    margin-top: var(--spacing-3);
+    margin-bottom: var(--spacing-3);
+}
+
+.m-4 {
+    margin: var(--spacing-4);
+}
+
+.mt-4 {
+    margin-top: var(--spacing-4);
+}
+
+.ml-4 {
+    margin-left: var(--spacing-4);
+}
+
+.mb-4 {
+    margin-bottom: var(--spacing-4);
+}
+
+.mr-4 {
+    margin-right: var(--spacing-4);
+}
+
+.mx-4 {
+    margin-left: var(--spacing-4);
+    margin-right: var(--spacing-4);
+}
+
+.my-4 {
+    margin-top: var(--spacing-4);
+    margin-bottom: var(--spacing-4);
+}
+
+.m-5 {
+    margin: var(--spacing-5);
+}
+
+.mt-5 {
+    margin-top: var(--spacing-5);
+}
+
+.ml-5 {
+    margin-left: var(--spacing-5);
+}
+
+.mb-5 {
+    margin-bottom: var(--spacing-5);
+}
+
+.mr-5 {
+    margin-right: var(--spacing-5);
+}
+
+.mx-5 {
+    margin-left: var(--spacing-5);
+    margin-right: var(--spacing-5);
+}
+
+.my-5 {
+    margin-top: var(--spacing-5);
+    margin-bottom: var(--spacing-5);
+}
+
+.m-6 {
+    margin: var(--spacing-6);
+}
+
+.mt-6 {
+    margin-top: var(--spacing-6);
+}
+
+.ml-6 {
+    margin-left: var(--spacing-6);
+}
+
+.mb-6 {
+    margin-bottom: var(--spacing-6);
+}
+
+.mr-6 {
+    margin-right: var(--spacing-6);
+}
+
+.mx-6 {
+    margin-left: var(--spacing-6);
+    margin-right: var(--spacing-6);
+}
+
+.my-6 {
+    margin-top: var(--spacing-6);
+    margin-bottom: var(--spacing-6);
+}
+
+.m-7 {
+    margin: var(--spacing-7);
+}
+
+.mt-7 {
+    margin-top: var(--spacing-7);
+}
+
+.ml-7 {
+    margin-left: var(--spacing-7);
+}
+
+.mb-7 {
+    margin-bottom: var(--spacing-7);
+}
+
+.mr-7 {
+    margin-right: var(--spacing-7);
+}
+
+.mx-7 {
+    margin-left: var(--spacing-7);
+    margin-right: var(--spacing-7);
+}
+
+.my-7 {
+    margin-top: var(--spacing-7);
+    margin-bottom: var(--spacing-7);
+}
+
+.m-8 {
+    margin: var(--spacing-8);
+}
+
+.mt-8 {
+    margin-top: var(--spacing-8);
+}
+
+.ml-8 {
+    margin-left: var(--spacing-8);
+}
+
+.mb-8 {
+    margin-bottom: var(--spacing-8);
+}
+
+.mr-8 {
+    margin-right: var(--spacing-8);
+}
+
+.mx-8 {
+    margin-left: var(--spacing-8);
+    margin-right: var(--spacing-8);
+}
+
+.my-8 {
+    margin-top: var(--spacing-8);
+    margin-bottom: var(--spacing-8);
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.mt-auto {
+    margin-top: auto;
+}
+
+.ml-auto {
+    margin-left: auto;
+}
+
+.mb-auto {
+    margin-bottom: auto;
+}
+
+.mr-auto {
+    margin-right: auto;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+}

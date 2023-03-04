@@ -1,0 +1,46 @@
+/* AUTO-GENERATED FROM `data/viewport.jsonc`, DO NOT EDIT MANUALLY! */
+
+.container-sm {
+    max-width: 600px;
+}
+
+.container-md {
+    max-width: 840px;
+}
+
+.container-lg {
+    max-width: 1240px;
+}
+
+.container-xl {
+    max-width: 1440px;
+}
+
+.container {
+    width: 100%;
+}
+
+@media screen and (min-width: 600px) {
+    .container {
+        max-width: 600px;
+    }
+}
+
+@media screen and (min-width: 840px) {
+    .container {
+        max-width: 840px;
+    }
+}
+
+@media screen and (min-width: 1240px) {
+    .container {
+        max-width: 1240px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .container {
+        max-width: 1440px;
+    }
+}
+

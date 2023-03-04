@@ -1,0 +1,155 @@
+@import url("./reset.css");
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+@import url("./spacing.css");
+
+@import url("./margin.css");
+@import url("./padding.css");
+@import url("./gap.css");
+
+@import url("./width.css");
+@import url("./container.css");
+@import url("./grid.css");
+@import url("./display.css");
+@import url("./flex.css");
+@import url("./utilities.css");
+
+@import url("./shape.css");
+@import url("./duration.css");
+@import url("./elevation.css");
+@import url("./opacity.css");
+
+@import url("./palette.css");
+@import url("./color.css");
+@import url("./typography.css");
+
+:root {
+    --typeface-body: Roboto;
+    --typeface-display: Roboto;
+    --typeface-code: Roboto;
+
+    --font-weight-bold: 700;
+    --font-weight-medium: 500;
+    --font-weight-regular: 400;
+
+    --type-label-medium-text-transform: none;
+    --type-label-small-line-height: 16px;
+    --type-label-small-tracking: 0.5px;
+    --type-label-small-size: 11px;
+    --type-label-small-weight: var(--font-weight-medium);
+    --type-label-small-font: var(--typeface-body);
+    --type-label-medium-line-height: 16px;
+    --type-label-medium-tracking: 0.5px;
+    --type-label-medium-size: 12px;
+    --type-label-medium-weight: var(--font-weight-medium);
+    --type-label-medium-font: var(--typeface-body);
+    --type-label-large-line-height: 20px;
+    --type-label-large-tracking: 0.1px;
+    --type-label-large-size: 14px;
+    --type-label-large-weight: var(--font-weight-medium);
+    --type-label-large-font: var(--typeface-body);
+    --type-body-small-line-height: 16px;
+    --type-body-small-tracking: 0.4px;
+    --type-body-small-size: 12px;
+    --type-body-small-weight: var(--font-weight-regular);
+    --type-body-small-font: var(--typeface-body);
+    --type-body-medium-line-height: 20px;
+    --type-body-medium-tracking: 0.25px;
+    --type-body-medium-size: 14px;
+    --type-body-medium-weight: var(--font-weight-regular);
+    --type-body-medium-font: var(--typeface-body);
+    --type-body-large-line-height: 24px;
+    --type-body-large-tracking: 0.5px;
+    --type-body-large-size: 16px;
+    --type-body-large-weight: var(--font-weight-regular);
+    --type-body-large-font: var(--typeface-body);
+    --type-title-small-line-height: 20px;
+    --type-title-small-tracking: 0.1px;
+    --type-title-small-size: 14px;
+    --type-title-small-weight: var(--font-weight-medium);
+    --type-title-small-font: var(--typeface-body);
+    --type-title-medium-line-height: 24px;
+    --type-title-medium-tracking: 0.15px;
+    --type-title-medium-size: 16px;
+    --type-title-medium-weight: var(--font-weight-medium);
+    --type-title-medium-font: var(--typeface-body);
+    --type-title-large-line-height: 28px;
+    --type-title-large-tracking: 0px;
+    --type-title-large-size: 22px;
+    --type-title-large-weight: var(--font-weight-regular);
+    --type-title-large-font: var(--typeface-display);
+    --type-headline-small-line-height: 32px;
+    --type-headline-small-tracking: 0px;
+    --type-headline-small-size: 24px;
+    --type-headline-small-weight: var(--font-weight-regular);
+    --type-headline-small-font: var(--typeface-display);
+    --type-headline-medium-line-height: 36px;
+    --type-headline-medium-tracking: 0px;
+    --type-headline-medium-size: 28px;
+    --type-headline-medium-weight: var(--font-weight-regular);
+    --type-headline-medium-font: var(--typeface-display);
+    --type-headline-large-line-height: 40px;
+    --type-headline-large-tracking: 0px;
+    --type-headline-large-size: 32px;
+    --type-headline-large-font: var(--typeface-display);
+    --type-headline-large-weight: var(--font-weight-regular);
+    --type-display-small-line-height: 44px;
+    --type-display-small-tracking: 0px;
+    --type-display-small-size: 36px;
+    --type-display-small-weight: var(--font-weight-regular);
+    --type-display-small-font: var(--typeface-display);
+    --type-display-medium-line-height: 52px;
+    --type-display-medium-tracking: 0px;
+    --type-display-medium-size: 45px;
+    --type-display-medium-weight: var(--font-weight-regular);
+    --type-display-medium-font: var(--typeface-display);
+    --type-display-large-line-height: 64px;
+    --type-display-large-tracking: 0px;
+    --type-display-large-size: 57px;
+    --type-display-large-weight: var(--font-weight-regular);
+    --type-display-large-font: var(--typeface-display);
+
+    /** #TODO temp, we need size/spacing tokens. */
+
+    --comp-button-height: 4px;
+
+    --comp-divider-thickness: 1px;
+}
+
+@import url("./typography.css");
+
+/** Utilities */
+
+/** Color */
+
+.primary-container {
+    color: var(--color-on-primary-container);
+    background-color: var(--color-primary-container);
+}
+
+.secondary-container {
+    color: var(--color-on-secondary-container);
+    background-color: var(--color-secondary-container);
+}
+
+.tertiary-container {
+    color: var(--color-on-tertiary-container);
+    background-color: var(--color-tertiary-container);
+}
+
+/** Shape */
+
+.corner-extra-large {
+    border-radius: var(--corner-extra-large);
+}
+
+.corner-full {
+    border-radius: var(--corner-full);
+}
+
+/** Other */
+
+* {
+    font-family: var(--type-body-large-font);
+}

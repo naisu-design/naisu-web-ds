@@ -1,0 +1,358 @@
+/* AUTO-GENERATED FROM `data/color.jsonc`, DO NOT EDIT MANUALLY! */
+
+:root, :root .light {
+    --color-primary: var(--palette-primary40);
+    --color-primary-container: var(--palette-primary90);
+    --color-secondary: var(--palette-secondary40);
+    --color-secondary-container: var(--palette-secondary90);
+    --color-tertiary: var(--palette-tertiary40);
+    --color-tertiary-container: var(--palette-tertiary90);
+    --color-surface: var(--palette-neutral99);
+    --color-surface-variant: var(--palette-neutral-variant90);
+    --color-background: var(--palette-neutral99);
+    --color-error: var(--palette-error40);
+    --color-error-container: var(--palette-error90);
+    --color-on-primary: var(--palette-primary100);
+    --color-on-primary-container: var(--palette-primary10);
+    --color-on-secondary: var(--palette-secondary100);
+    --color-on-secondary-container: var(--palette-secondary10);
+    --color-on-tertiary: var(--palette-tertiary100);
+    --color-on-tertiary-container: var(--palette-tertiary10);
+    --color-on-surface: var(--palette-neutral10);
+    --color-on-surface-variant: var(--palette-neutral-variant30);
+    --color-on-error: var(--palette-error100);
+    --color-on-error-container: var(--palette-error10);
+    --color-on-background: var(--palette-neutral10);
+    --color-outline: var(--palette-neutral-variant50);
+    --color-outline-variant: var(--palette-neutral-variant80);
+    --color-shadow: var(--palette-neutral0);
+    --color-surface-tint: var(--palette-primary40);
+    --color-inverse-surface: var(--palette-neutral20);
+    --color-inverse-on-surface: var(--palette-neutral95);
+    --color-inverse-primary: var(--palette-primary80);
+    --color-scrim: var(--palette-neutral0);
+    --color-surface-1: var(--palette-light-tone1);
+    --color-surface-2: var(--palette-light-tone2);
+    --color-surface-3: var(--palette-light-tone3);
+    --color-surface-4: var(--palette-light-tone4);
+    --color-surface-5: var(--palette-light-tone5);
+}
+
+:root .dark {
+    --color-primary: var(--palette-primary80);
+    --color-primary-container: var(--palette-primary30);
+    --color-secondary: var(--palette-secondary80);
+    --color-secondary-container: var(--palette-secondary30);
+    --color-tertiary: var(--palette-tertiary80);
+    --color-tertiary-container: var(--palette-tertiary30);
+    --color-surface: var(--palette-neutral10);
+    --color-surface-variant: var(--palette-neutral-variant30);
+    --color-background: var(--palette-neutral10);
+    --color-error: var(--palette-error80);
+    --color-error-container: var(--palette-error30);
+    --color-on-primary: var(--palette-primary20);
+    --color-on-primary-container: var(--palette-primary90);
+    --color-on-secondary: var(--palette-secondary20);
+    --color-on-secondary-container: var(--palette-secondary90);
+    --color-on-tertiary: var(--palette-tertiary20);
+    --color-on-tertiary-container: var(--palette-tertiary90);
+    --color-on-surface: var(--palette-neutral90);
+    --color-on-surface-variant: var(--palette-neutral-variant80);
+    --color-on-error: var(--palette-error20);
+    --color-on-error-container: var(--palette-error80);
+    --color-on-background: var(--palette-neutral90);
+    --color-outline: var(--palette-neutral-variant60);
+    --color-outline-variant: var(--palette-neutral-variant30);
+    --color-shadow: var(--palette-neutral0);
+    --color-surface-tint: var(--palette-primary80);
+    --color-inverse-surface: var(--palette-neutral90);
+    --color-inverse-on-surface: var(--palette-neutral20);
+    --color-inverse-primary: var(--palette-primary40);
+    --color-scrim: var(--palette-neutral0);
+    --color-surface-1: var(--palette-dark-tone1);
+    --color-surface-2: var(--palette-dark-tone2);
+    --color-surface-3: var(--palette-dark-tone3);
+    --color-surface-4: var(--palette-dark-tone4);
+    --color-surface-5: var(--palette-dark-tone5);
+}
+
+.text-primary {
+    color: var(--color-primary);
+}
+
+.text-primary-container {
+    color: var(--color-primary-container);
+}
+
+.text-secondary {
+    color: var(--color-secondary);
+}
+
+.text-secondary-container {
+    color: var(--color-secondary-container);
+}
+
+.text-tertiary {
+    color: var(--color-tertiary);
+}
+
+.text-tertiary-container {
+    color: var(--color-tertiary-container);
+}
+
+.text-surface {
+    color: var(--color-surface);
+}
+
+.text-surface-variant {
+    color: var(--color-surface-variant);
+}
+
+.text-background {
+    color: var(--color-background);
+}
+
+.text-error {
+    color: var(--color-error);
+}
+
+.text-error-container {
+    color: var(--color-error-container);
+}
+
+.text-on-primary {
+    color: var(--color-on-primary);
+}
+
+.text-on-primary-container {
+    color: var(--color-on-primary-container);
+}
+
+.text-on-secondary {
+    color: var(--color-on-secondary);
+}
+
+.text-on-secondary-container {
+    color: var(--color-on-secondary-container);
+}
+
+.text-on-tertiary {
+    color: var(--color-on-tertiary);
+}
+
+.text-on-tertiary-container {
+    color: var(--color-on-tertiary-container);
+}
+
+.text-on-surface {
+    color: var(--color-on-surface);
+}
+
+.text-on-surface-variant {
+    color: var(--color-on-surface-variant);
+}
+
+.text-on-error {
+    color: var(--color-on-error);
+}
+
+.text-on-error-container {
+    color: var(--color-on-error-container);
+}
+
+.text-on-background {
+    color: var(--color-on-background);
+}
+
+.text-outline {
+    color: var(--color-outline);
+}
+
+.text-outline-variant {
+    color: var(--color-outline-variant);
+}
+
+.text-shadow {
+    color: var(--color-shadow);
+}
+
+.text-surface-tint {
+    color: var(--color-surface-tint);
+}
+
+.text-inverse-surface {
+    color: var(--color-inverse-surface);
+}
+
+.text-inverse-on-surface {
+    color: var(--color-inverse-on-surface);
+}
+
+.text-inverse-primary {
+    color: var(--color-inverse-primary);
+}
+
+.text-scrim {
+    color: var(--color-scrim);
+}
+
+.text-surface-1 {
+    color: var(--color-surface-1);
+}
+
+.text-surface-2 {
+    color: var(--color-surface-2);
+}
+
+.text-surface-3 {
+    color: var(--color-surface-3);
+}
+
+.text-surface-4 {
+    color: var(--color-surface-4);
+}
+
+.text-surface-5 {
+    color: var(--color-surface-5);
+}
+
+.bg-primary {
+    background-color: var(--color-primary);
+}
+
+.bg-primary-container {
+    background-color: var(--color-primary-container);
+}
+
+.bg-secondary {
+    background-color: var(--color-secondary);
+}
+
+.bg-secondary-container {
+    background-color: var(--color-secondary-container);
+}
+
+.bg-tertiary {
+    background-color: var(--color-tertiary);
+}
+
+.bg-tertiary-container {
+    background-color: var(--color-tertiary-container);
+}
+
+.bg-surface {
+    background-color: var(--color-surface);
+}
+
+.bg-surface-variant {
+    background-color: var(--color-surface-variant);
+}
+
+.bg-background {
+    background-color: var(--color-background);
+}
+
+.bg-error {
+    background-color: var(--color-error);
+}
+
+.bg-error-container {
+    background-color: var(--color-error-container);
+}
+
+.bg-on-primary {
+    background-color: var(--color-on-primary);
+}
+
+.bg-on-primary-container {
+    background-color: var(--color-on-primary-container);
+}
+
+.bg-on-secondary {
+    background-color: var(--color-on-secondary);
+}
+
+.bg-on-secondary-container {
+    background-color: var(--color-on-secondary-container);
+}
+
+.bg-on-tertiary {
+    background-color: var(--color-on-tertiary);
+}
+
+.bg-on-tertiary-container {
+    background-color: var(--color-on-tertiary-container);
+}
+
+.bg-on-surface {
+    background-color: var(--color-on-surface);
+}
+
+.bg-on-surface-variant {
+    background-color: var(--color-on-surface-variant);
+}
+
+.bg-on-error {
+    background-color: var(--color-on-error);
+}
+
+.bg-on-error-container {
+    background-color: var(--color-on-error-container);
+}
+
+.bg-on-background {
+    background-color: var(--color-on-background);
+}
+
+.bg-outline {
+    background-color: var(--color-outline);
+}
+
+.bg-outline-variant {
+    background-color: var(--color-outline-variant);
+}
+
+.bg-shadow {
+    background-color: var(--color-shadow);
+}
+
+.bg-surface-tint {
+    background-color: var(--color-surface-tint);
+}
+
+.bg-inverse-surface {
+    background-color: var(--color-inverse-surface);
+}
+
+.bg-inverse-on-surface {
+    background-color: var(--color-inverse-on-surface);
+}
+
+.bg-inverse-primary {
+    background-color: var(--color-inverse-primary);
+}
+
+.bg-scrim {
+    background-color: var(--color-scrim);
+}
+
+.bg-surface-1 {
+    background-color: var(--color-surface-1);
+}
+
+.bg-surface-2 {
+    background-color: var(--color-surface-2);
+}
+
+.bg-surface-3 {
+    background-color: var(--color-surface-3);
+}
+
+.bg-surface-4 {
+    background-color: var(--color-surface-4);
+}
+
+.bg-surface-5 {
+    background-color: var(--color-surface-5);
+}
+
