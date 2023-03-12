@@ -26,22 +26,22 @@
 }
 
 .rounded-extra-small {
-    border-radius: var(---extra-small);
+    border-radius: var(--radius-extra-small);
 }
 
 .rounded-small {
-    border-radius: var(---small);
+    border-radius: var(--radius-small);
 }
 
 .rounded-medium {
-    border-radius: var(---medium);
+    border-radius: var(--radius-medium);
 }
 
 .rounded-large {
-    border-radius: var(---large);
+    border-radius: var(--radius-large);
 }
 
 .rounded-extra-large {
-    border-radius: var(---extra-large);
+    border-radius: var(--radius-extra-large);
 }
 

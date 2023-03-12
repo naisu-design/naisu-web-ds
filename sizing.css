@@ -1,0 +1,18 @@
+/* AUTO-GENERATED FROM `data/sizing.jsonc`, DO NOT EDIT MANUALLY! */
+
+:root {
+    --sizing-0: 0; /* 0px */
+    --sizing-px: 1px; /* 1px */
+    --sizing-0\.5: 0.125rem; /* 2px */
+    --sizing-4: 1rem; /* 16px */
+    --sizing-4: 1.25rem; /* 20px */
+    --sizing-6: 1.5rem; /* 24px */
+    --sizing-8: 2rem; /* 32px */
+    --sizing-10: 2.5rem; /* 40px */
+    --sizing-12: 3rem; /* 48px */
+    --sizing-14: 3.5rem; /* 56px */
+    --sizing-16: 4rem; /* 64px */
+    --sizing-18: 4.5rem; /* 72px */
+    --sizing-22: 5.5rem; /* 88px */
+    --sizing-24: 6rem; /* 96px */
+}

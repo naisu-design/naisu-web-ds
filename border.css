@@ -1,0 +1,39 @@
+.border-0 {
+    border: 0;
+}
+
+.border {
+    border: 1px;
+}
+
+.border-2 {
+    border: 2px;
+}
+
+.border-4 {
+    border: 4px;
+}
+
+.border-solid {
+    border-style: solid;
+}
+
+.border-dashed {
+    border-style: dashed;
+}
+
+.border-dotted {
+    border-style: dotted;
+}
+
+.border-double {
+    border-style: double;
+}
+
+.border-hidden {
+    border-style: hidden;
+}
+
+.border-none {
+    border-style: none;
+}

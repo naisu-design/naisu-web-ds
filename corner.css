@@ -26,22 +26,22 @@
 }
 
 .corner-extra-small {
-    border-radius: var(---extra-small);
+    border-radius: var(--corner-extra-small);
 }
 
 .corner-small {
-    border-radius: var(---small);
+    border-radius: var(--corner-small);
 }
 
 .corner-medium {
-    border-radius: var(---medium);
+    border-radius: var(--corner-medium);
 }
 
 .corner-large {
-    border-radius: var(---large);
+    border-radius: var(--corner-large);
 }
 
 .corner-extra-large {
-    border-radius: var(---extra-large);
+    border-radius: var(--corner-extra-large);
 }
 

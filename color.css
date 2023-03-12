@@ -356,3 +356,143 @@
     background-color: var(--color-surface-5);
 }
 
+.border-primary {
+    border-color: var(--color-primary);
+}
+
+.border-primary-container {
+    border-color: var(--color-primary-container);
+}
+
+.border-secondary {
+    border-color: var(--color-secondary);
+}
+
+.border-secondary-container {
+    border-color: var(--color-secondary-container);
+}
+
+.border-tertiary {
+    border-color: var(--color-tertiary);
+}
+
+.border-tertiary-container {
+    border-color: var(--color-tertiary-container);
+}
+
+.border-surface {
+    border-color: var(--color-surface);
+}
+
+.border-surface-variant {
+    border-color: var(--color-surface-variant);
+}
+
+.border-background {
+    border-color: var(--color-background);
+}
+
+.border-error {
+    border-color: var(--color-error);
+}
+
+.border-error-container {
+    border-color: var(--color-error-container);
+}
+
+.border-on-primary {
+    border-color: var(--color-on-primary);
+}
+
+.border-on-primary-container {
+    border-color: var(--color-on-primary-container);
+}
+
+.border-on-secondary {
+    border-color: var(--color-on-secondary);
+}
+
+.border-on-secondary-container {
+    border-color: var(--color-on-secondary-container);
+}
+
+.border-on-tertiary {
+    border-color: var(--color-on-tertiary);
+}
+
+.border-on-tertiary-container {
+    border-color: var(--color-on-tertiary-container);
+}
+
+.border-on-surface {
+    border-color: var(--color-on-surface);
+}
+
+.border-on-surface-variant {
+    border-color: var(--color-on-surface-variant);
+}
+
+.border-on-error {
+    border-color: var(--color-on-error);
+}
+
+.border-on-error-container {
+    border-color: var(--color-on-error-container);
+}
+
+.border-on-background {
+    border-color: var(--color-on-background);
+}
+
+.border-outline {
+    border-color: var(--color-outline);
+}
+
+.border-outline-variant {
+    border-color: var(--color-outline-variant);
+}
+
+.border-shadow {
+    border-color: var(--color-shadow);
+}
+
+.border-surface-tint {
+    border-color: var(--color-surface-tint);
+}
+
+.border-inverse-surface {
+    border-color: var(--color-inverse-surface);
+}
+
+.border-inverse-on-surface {
+    border-color: var(--color-inverse-on-surface);
+}
+
+.border-inverse-primary {
+    border-color: var(--color-inverse-primary);
+}
+
+.border-scrim {
+    border-color: var(--color-scrim);
+}
+
+.border-surface-1 {
+    border-color: var(--color-surface-1);
+}
+
+.border-surface-2 {
+    border-color: var(--color-surface-2);
+}
+
+.border-surface-3 {
+    border-color: var(--color-surface-3);
+}
+
+.border-surface-4 {
+    border-color: var(--color-surface-4);
+}
+
+.border-surface-5 {
+    border-color: var(--color-surface-5);
+}
+

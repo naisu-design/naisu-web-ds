@@ -8,7 +8,11 @@
 @import url("./padding.css");
 @import url("./gap.css");
 
+@import url("./sizing.css");
+
 @import url("./width.css");
+@import url("./height.css");
+
 @import url("./container.css");
 @import url("./grid.css");
 @import url("./display.css");
@@ -17,10 +21,10 @@
 @import url("./radius.css");
 @import url("./utilities.css");
 
-@import url("./shape.css");
 @import url("./duration.css");
 @import url("./elevation.css");
 @import url("./opacity.css");
+@import url("./border.css");
 
 @import url("./palette.css");
 @import url("./color.css");
@@ -121,9 +125,9 @@
 
 @import url("./typography.css");
 
-/** Utilities */
-
-/** Color */
+/* Color */
+/* #TODO auto-generate those */
+/* #TODO also set border-color in the container classes */
 
 .primary-container {
     color: var(--color-on-primary-container);
@@ -140,18 +144,55 @@
     background-color: var(--color-tertiary-container);
 }
 
-/** Shape */
+/* Icons */
+/* #TODO automatically generate as rems */
+/* https://m3.material.io/styles/icons/designing-icons#68ded203-029e-400f-97dc-f3b30e15e27b */
 
-.corner-extra-large {
-    border-radius: var(--corner-extra-large);
+:root {
+    --icon-small-size: 20px;
+    --icon-medium-size: 24px;
+    --icon-large-size: 40px;
+    --icon-extra-large-size: 48px;
 }
 
-.corner-full {
-    border-radius: var(--corner-full);
+.icon-small {
+    font-size: var(--icon-small-size);
 }
 
-/** Other */
+.icon-medium {
+    font-size: var(--icon-medium-size);
+}
+
+.icon-large {
+    font-size: var(--icon-large-size);
+}
+
+.icon-extra-large {
+    font-size: var(--icon-extra-large-size);
+}
+
+/* Other */
 
 * {
     font-family: var(--type-body-large-font);
+}
+
+/* #Insight the `:disabled` pseudo-class only works for input elements. */
+[disabled] {
+    opacity: var(--opacity-disabled);
+    pointer-events: none;
+}
+
+/* #TODO think about how to handle a/anchors. */
+
+a {
+    color: var(--color-on-surface-variant);
+}
+
+a:hover {
+    color: var(--color-primary);
+}
+
+.deemphasize {
+    opacity: var(--opacity-50);
 }
